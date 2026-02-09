@@ -1,5 +1,6 @@
 import winston from 'winston';
-
+// Winston is a Node.js logging library used to record application logs (info, errors, warnings) 
+// in a structured way—console, files, or external services.
 const logger = winston.createLogger({
   level: process.env.LOG_LEVEL || 'info',
   format: winston.format.combine(
