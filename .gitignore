@@ -7,8 +7,7 @@ node_modules
 logs
 .neon_local/
 public/readme/module-icon.webp
-public/readme/module-thumbnail.webp
-Modeule.readme.md
+public/readme/module-thumbnail.web
 
 # Docker volumes
 .docker/
